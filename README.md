@@ -104,20 +104,6 @@ Three key curves:
 
 ---
 
-## 📦 Project Structure
-├── README.md
-├── data/
-│   └── application_data.csv
-├── notebooks/
-│   ├── 01_data_cleaning.ipynb
-│   ├── 02_feature_engineering.ipynb
-│   ├── 03_modeling.ipynb
-├── models/
-│   └── final_catboost_model.pkl
-├── scripts/
-│   └── fraud_detection_pipeline.py
----
-
 ## 📚 Appendix
 
 - Data distributions (SSN, DOB, address, phone) visualized for anomaly detection.
